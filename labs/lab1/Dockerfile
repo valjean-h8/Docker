@@ -1,2 +1,2 @@
 FROM ubuntu:22.04
-CMD echo "Hello my first Docker"
+CMD echo "Hello my second Docker"
